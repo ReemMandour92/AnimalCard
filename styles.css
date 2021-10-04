@@ -1,0 +1,71 @@
+/* add your CSS here */
+
+h1 {
+ 
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  padding:0% 0% 3%;
+}
+
+.animal-info-fact {
+  font-style: italic;
+}
+
+span.fact_labels_f {
+  font-weight: bold;
+}
+
+span.fact_labels_w {
+  font-weight: bold;
+}
+
+span.fact_labels_s {
+  font-weight: bold;
+}
+
+span.fact_labels_l {
+  font-weight: bold;
+}
+
+span.fact_labels_h {
+  font-weight: bold;
+}
+
+span.fact_value_f {
+  font-style: italic;
+}
+
+span.fact_value_w {
+  font-style: italic;
+}
+
+span.fact_value_l {
+  font-style: italic;
+}
+
+span.fact_value_h {
+  font-style: italic;
+}
+#facts {
+  list-style: none;
+  padding-left: 0pt;
+}
+
+#container {
+  border: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  width: 57%;
+  padding: 3%; 
+}
+
+#card {
+  border: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  width: 300px;
+  padding:0% 2% 0%;
+}
